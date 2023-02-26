@@ -1,5 +1,5 @@
 ### Hi there 👋
-<figure><embed src="https://wakatime.com/share/@7a11aaca-c864-454f-a53d-6a12b8a6b231/1592dba3-77b3-4aa6-a244-5cc1f519b990.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@7a11aaca-c864-454f-a53d-6a12b8a6b231/b9efa24b-eec3-4cc5-be7f-07167cd3cee5.svg"></embed></figure>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
