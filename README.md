@@ -1,8 +1,5 @@
 ### Hi there 👋
-<img
-  src="https://github.com/<Sjackson-1>/<Sjackson-1>/blob/<main>/images/stat.svg"
-  alt="Seth WakaTime Activity"
-/>
+<figure><embed src="https://wakatime.com/share/@7a11aaca-c864-454f-a53d-6a12b8a6b231/1592dba3-77b3-4aa6-a244-5cc1f519b990.svg"></embed></figure>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
